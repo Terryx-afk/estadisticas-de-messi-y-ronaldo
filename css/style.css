@@ -1,0 +1,26 @@
+body{
+    font-family: "Permanent Marker", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+header h1{
+    text-align: center;
+    background-color: aquamarine;
+    color: burlywood;
+}
+.estadisticas-futbol{
+    display: flex;
+    border: 15px solid black;
+    padding: 20px;
+    text-align: left;
+    background-color: blueviolet;
+    color: black;
+    margin: 40px;
+}
+
+.estadisticas-futbol img{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
